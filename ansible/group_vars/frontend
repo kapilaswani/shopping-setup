@@ -1,4 +1,4 @@
 frontend:
   release:
-    url: http://jenkins:8080/job/Package%20Frontend/lastSuccessfulBuild/artifact/distribution/frontend-0.7.1.zip
+    url: http://130.211.225.196:8080/job/shopping-portal/job/package-the-app/lastSuccessfulBuild/artifact/distribution/frontend-0.0.2.zip
     version: 0.7.1
